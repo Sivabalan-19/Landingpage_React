@@ -1,0 +1,16 @@
+.footer{
+    background-color: black;
+    justify-content: space-around;
+    display: flex ;
+    padding: 40px 0px;
+    
+  }
+  .foot{
+     color: white;
+     font-family:'Franklin Gothic Medium';
+
+   }
+  .contact{
+    color: white;
+   
+  }

@@ -1,0 +1,21 @@
+.img
+        {
+            backdrop-filter: blur(5px);
+            background-repeat: no-repeat;
+            background-size: contain;
+            position: block;
+            width: 100%;
+            opacity: 0.1;
+            height: 60%;
+            
+        }
+        
+.h1
+{
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 30%;
+    left: 22%;
+    font-size: 500%;
+}
